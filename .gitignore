@@ -1,0 +1,16 @@
+# npm
+package-lock.json
+node_modules
+
+# vscode
+.vscode
+
+# vitepress
+docs/.vitepress/cache
+docs/.vitepress/dist
+
+# mac
+.DS_Store
+
+# log
+*.log
